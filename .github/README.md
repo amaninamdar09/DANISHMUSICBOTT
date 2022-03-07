@@ -64,8 +64,6 @@ For more information on the technologies that power the Yukki Music Bot, check o
 > How to Deploy To Heroku? [Watch Tutorial](https://www.youtube.com/embed/NPTk-awGalY)
 
 > Click on buttons below to expand and  detailed explanation process. !
-
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/NPTk-awGalY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
 <details>
     <summary><b> Detailed Heroku Depoyment Process » </b></summary>
