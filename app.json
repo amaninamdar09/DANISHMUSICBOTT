@@ -25,7 +25,7 @@
       },
       "AUTO_LEAVING_ASSISTANT": {
         "description": "If you want your assistant to leave all chats automatically after some time.",
-        "value": "True",
+        "value": "False",
         "required": true
       },
       "BOT_TOKEN": {
@@ -70,12 +70,17 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/TeamYukki/YukkiMusicBot",
+        "value": "https://github.com/TechShreyash/SiestaXMusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
         "description": "Repo's Branch Name",
-        "value": "master",
+        "value": "main",
+        "required": true
+      },
+      "START_IMG_URL": {
+        "description": "Telegraph Image URL For Start Command",
+        "value": "https://telegra.ph/file/e17f42bc195635b668d6d.jpg",
         "required": true
       }
     },
